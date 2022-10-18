@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+h4{
+  color: blue;
+}
+
+h3{
+  color: brown;
+}
+
+.miClaseBarreto{
+  color: pink;
+}
